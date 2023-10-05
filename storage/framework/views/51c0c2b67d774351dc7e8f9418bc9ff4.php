@@ -1,0 +1,1 @@
+<h1>Listings </h1><?php /**PATH /Users/taborg/Projects/TABORG_GEEKS/resources/views/welcome.blade.php ENDPATH**/ ?>
